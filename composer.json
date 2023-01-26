@@ -1,0 +1,17 @@
+{
+    "name": "sho/kyo",
+    "description": "for what",
+    "type": "project",
+    "author": [
+        {
+            "name" : "Rizqya Sanria Juliana",
+            "email" : "rizqysho@gmail.com"
+        }
+    ],
+    "require": {
+        "fakerphp/faker": "^1.21",
+        "dompdf/dompdf": "^2.0"
+    },
+    "license": "MIT",
+    "minimum-stability": "stable"
+}
